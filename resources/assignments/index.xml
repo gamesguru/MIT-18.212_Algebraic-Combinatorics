@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem set 1</title>
+      <link>/resources/mit18_212s19_pset1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset1/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem Set 1 Solutions I</title>
+      <link>/resources/mit18_212s19_pset1_solni/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset1_solni/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem Set 1 Solutions II</title>
+      <link>/resources/mit18_212s19_pset1_solnii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset1_solnii/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem set 2</title>
+      <link>/resources/mit18_212s19_pset2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset2/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem Set 2 Solutions I</title>
+      <link>/resources/mit18_212s19_pset2_solni/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset2_solni/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem Set 2 Solutions II</title>
+      <link>/resources/mit18_212s19_pset2_solnii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset2_solnii/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem set 3</title>
+      <link>/resources/mit18_212s19_pset3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset3/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Problem Set 3 solutions</title>
+      <link>/resources/mit18_212s19_pset3_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_pset3_soln/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Problem Sets Problem set 1 (PDF)
+Problem set 2 (PDF)
+Problem set 3 (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

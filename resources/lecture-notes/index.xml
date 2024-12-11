@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 1: Catalan numbers I</title>
+      <link>/resources/mit18_212s19_lec1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec1/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 1: Catalan numbers II</title>
+      <link>/resources/mit18_212s19_lec2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec2/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 10: Statistics on permutations and more</title>
+      <link>/resources/mit18_212s19_lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec10/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 11: Stirling numbers and more</title>
+      <link>/resources/mit18_212s19_lec11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec11/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 12: Eulerian numbers. Increasing binary trees. 3 Pascal-like triangles</title>
+      <link>/resources/mit18_212s19_lec12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec12/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 13: Discussion of Problem Set 1</title>
+      <link>/resources/mit18_212s19_lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec13/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 14: Discussion of Problem Set 1 (cont.)</title>
+      <link>/resources/mit18_212s19_lec14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec14/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 15: Posets and lattices. Boolean lattice. Partition lattice. Young&#39;s lattice</title>
+      <link>/resources/mit18_212s19_lec15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec15/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 16: Distributive lattices. Birkhoff&#39;s fundamental theorem for finite distributive lattices</title>
+      <link>/resources/mit18_212s19_lec16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec16/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 17: Sperner&#39;s property and more</title>
+      <link>/resources/mit18_212s19_lec17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec17/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 18: Greene&#39;s theorem vs Schensted correspondence and more</title>
+      <link>/resources/mit18_212s19_lec18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec18/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 19: Differential posets and more</title>
+      <link>/resources/mit18_212s19_lec19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec19/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 20: Proof of unimodality of Gaussian coefficients and more</title>
+      <link>/resources/mit18_212s19_lec20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec20/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 21: Partition theory (cont.). Franklin&#39;s combinatorial proof of Euler&#39;s pentagonal number theorem and more</title>
+      <link>/resources/mit18_212s19_lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec21/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 22: Partition theory (cont.). Combinatorial proof of Jacobi&#39;s triple product identity and more</title>
+      <link>/resources/mit18_212s19_lec22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec22/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 23: Two combinatorial proofs of Cayley&#39;s formula</title>
+      <link>/resources/mit18_212s19_lec23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec23/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 24: Discussion of Problem Set 2</title>
+      <link>/resources/mit18_212s19_lec24/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec24/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 25: Discussion of Problem Set 2 (cont.)</title>
+      <link>/resources/mit18_212s19_lec25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec25/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 26: Matrix Tree Theorem and more</title>
+      <link>/resources/mit18_212s19_lec26/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec26/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 27: Matrix Tree Theorem (cont.) and more</title>
+      <link>/resources/mit18_212s19_lec27/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec27/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 28: Proof of Matrix Tree Theorem using Cauchy-Binnet formula and more</title>
+      <link>/resources/mit18_212s19_lec28/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec28/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 29: Proof of Directed Matrix Tree Theorem based on induction</title>
+      <link>/resources/mit18_212s19_lec29/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec29/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 3: Pattern avoidance in permutations and more</title>
+      <link>/resources/mit18_212s19_lec3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec3/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 30: Proof of Directed Matrix Tree Theorem via the Involution Principle and more</title>
+      <link>/resources/mit18_212s19_lec30/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec30/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 31: Electrical networks (cont.) and more</title>
+      <link>/resources/mit18_212s19_lec31/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec31/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 32: Eulerian cycles in digraphs and B.E.S.T. theorem</title>
+      <link>/resources/mit18_212s19_lec32/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec32/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 33: Parking functions and tree inversion polynomials</title>
+      <link>/resources/mit18_212s19_lec33/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec33/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 34: Pascal triangle and more</title>
+      <link>/resources/mit18_212s19_lec34/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec34/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 35: Lindstrom-Gessel-Viennot lemma and Lindstrom Theorem</title>
+      <link>/resources/mit18_212s19_lec35/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec35/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 36: Proof of Lindstrom-Gessel-Viennot lemma and more</title>
+      <link>/resources/mit18_212s19_lec36/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec36/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 37: MacMahon Proposition and more</title>
+      <link>/resources/mit18_212s19_lec37/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec37/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 38: Discussion of Problem Set 3</title>
+      <link>/resources/mit18_212s19_lec38/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec38/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 39: Plane partitions and more</title>
+      <link>/resources/mit18_212s19_lec39/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec39/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 4: Frobenius-Young identity and more</title>
+      <link>/resources/mit18_212s19_lec4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec4/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 5: Proof of the hook-length formula based on a random hook walk</title>
+      <link>/resources/mit18_212s19_lec5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec5/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 6: Hook walks and more</title>
+      <link>/resources/mit18_212s19_lec6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec6/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 7: q-factorials and q-binomial coefficients</title>
+      <link>/resources/mit18_212s19_lec7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec7/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 8: Grassmannians over finite fields</title>
+      <link>/resources/mit18_212s19_lec8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec8/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.212 S19 Algebraic Combinatorics, Lecture 9: Sets and multisets. Statistics on permutations</title>
+      <link>/resources/mit18_212s19_lec9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_212s19_lec9/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Lecture notes were prepared by Andrew Lin. Used with permission. There are no lecture notes for lectures 13, 14, 24, 25, and 38. The discussions of the problem sets were held during these lectures.
+LEC # TOPICS 1 Catalan numbers: drunkard&amp;rsquo;s walk problem, generating function, recurrence relation (PDF) 2 Catalan numbers (cont.): formula for Cnreflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations (PDF) 3 Pattern avoidance in permutations. Stack- and queue-sortable permutations.</description>
+    </item>
+    
+  </channel>
+</rss>

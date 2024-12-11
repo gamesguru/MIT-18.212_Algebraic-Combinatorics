@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>Key [AC] = Stanley, Richard P. Algebraic Combinatorics: Walks, Trees, Tableaux, and More. Springer, 2018. ISBN: 9783319771724. Online 2013 version.
+[EC1] = ———. Enumerative Combinatorics. Vol. 1. Cambridge, UK: Cambridge University Press, 1997. ISBN: 9780521553094. Online version.
+[EC2] = ———. Enumerative Combinatorics. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875. Lecture sessions with reading assignments are listed below.
+LEC # TOPICS READINGS 2
+Catalan numbers (cont.): formula for Cn, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations.</description>
+    </item>
+    
+  </channel>
+</rss>
